@@ -1,0 +1,30 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": null,
+  "dependencies": {
+    "@date-io/date-fns": "2.6.1",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.9.1",
+    "@material-ui/lab": "4.0.0-alpha.53",
+    "@material-ui/pickers": "3.2.10",
+    "date-fns": "2.14.0",
+    "lodash": "4.17.20",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-grid-layout": "1.0.0",
+    "react-router-breadcrumbs-hoc": "3.2.10",
+    "react-router-dom": "5.2.0"
+  },
+  "keywords": [],
+  "name": "cdp-20-forked",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
